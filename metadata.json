@@ -1,0 +1,5 @@
+{
+  "name": "DevMate - AI Pair Programmer",
+  "description": "A powerful, browser-based code editor with an integrated AI pair programmer powered by Gemini 3 Pro. Features syntax highlighting, multi-file support, and context-aware chat.",
+  "requestFramePermissions": []
+}
